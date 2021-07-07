@@ -1,12 +1,12 @@
 需要帮助？（QQ群：143338777）
 
+[下载页面](https://github.com/heiwa9/LinkGoYoung/releases)  
+[备用下载](https://gitee.com/zhyaoyu/LinkGoYoung/releases)  
+
 # LinkGoYoung
 电信飞young破解路由器登录限制(任意路由器都可使用)  
 适用范围：使用以下客户端的学校  
 ![image](https://user-images.githubusercontent.com/54386147/123896019-600fcc00-d993-11eb-8da0-67e4c77ddb6e.png)  
-
-下载地址：https://github.com/heiwa9/LinkGoYoung/releases  
-备用下载地址：https://gitee.com/zhyaoyu/LinkGoYoung/releases
 
 账号是自己的账号(也可能是2710开头的宽带号码)  
 密码是自己设置的密码（默认密码是身份证后六位）
