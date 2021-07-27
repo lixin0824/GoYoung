@@ -11,7 +11,7 @@
 账号是自己的账号(也可能是2710开头的宽带号码)  
 密码是自己设置的密码（默认密码是身份证后六位）
 ### 可直接联网  
-![image](https://user-images.githubusercontent.com/54386147/123214794-3de0fe80-d4fa-11eb-9f91-ab66467b93c5.png)
+![image](https://user-images.githubusercontent.com/54386147/127081560-4b4eb36b-10ae-45f3-9211-6495e4782464.png)
 
 ## 路由器设置  
 1.	将外网线连接至路由器WAN口（一般是颜色不一样 单独的那个口）  
